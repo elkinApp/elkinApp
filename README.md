@@ -19,12 +19,12 @@
   <h2>Confusion is part of Programming</h2>
 </div>
 
-<!-- Presentación (ajusta las tecnologías y enlaces a los tuyos) -->
+<!-- Presentación -->
 - 🖥️ Focused on **Back-End** and **Front-End** development
 - 🎓 **Computer Science Student** & **Active Learner / Researcher**
 - 🛡️ Exploring **CTFs** and cybersecurity fundamentals
 - 💻 Working with **C, C++, Python, JavaScript, HTML, CSS** and **Linux**
-- 📫 Contact: **TU_CORREO**
+- 📫 Contact: **elkin.ascanioperez.work@gmail.com**
 - 🌐 Portfolio / Blog / Socials: **TU_ENLACE_PERSONAL**
 
 <!-- Stack tecnológico estilo skillicons.dev con tus herramientas actuales -->
@@ -38,14 +38,14 @@
   </a>
 </p>
 
-<!-- Conexión (completa con tus enlaces reales o quita los que no uses) -->
+<!-- Conexión -->
 <div align="center">
   <h2>Connect With Me 🤝</h2>
 </div>
 
 <p align="center">
   <a href="TU_URL_GITHUB" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="45" width="45" alt="GitHub"></a>
-  <a href="TU_URL_LINKEDIN" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/elkin-ascanio-448982417" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" alt="LinkedIn"></a>
   <a href="TU_URL_DISCORD_O_RED" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord" height="45" width="45" alt="Discord"></a>
 </p>
 
