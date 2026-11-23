@@ -44,7 +44,7 @@
 </div>
 
 <p align="center">
-  <a href="TU_URL_GITHUB" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="45" width="45" alt="GitHub"></a>
+  <a href="https://github.com/elkinApp" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="45" width="45" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/elkin-ascanio-448982417" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" width="45" alt="LinkedIn"></a>
   <a href="TU_URL_DISCORD_O_RED" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord" height="45" width="45" alt="Discord"></a>
 </p>
