@@ -49,10 +49,5 @@
   <a href="TU_URL_DISCORD_O_RED" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=discord" height="45" width="45" alt="Discord"></a>
 </p>
 
-<!-- Contador de visitas (usa tu propio ID) -->
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=TU_USUARIO_GITHUB&icon=3&color=6" alt="Visit Count">
-</div>
-
 <!-- Divisor degradado inferior -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider">
